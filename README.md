@@ -7,7 +7,7 @@
 <a href="https://github.com/zeesu-royalist">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mohammad%20Jishan&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A6%20%20Full-Stack%20Developer%20%20%E2%80%A2%20%20AI%20Architect%20%20%E2%80%A2%20%20Cloud%20Engineer%20%20%E2%9C%A6&descSize=20&descAlignY=58&descAlign=50&stroke=8b5cf6&strokeWidth=2" width="100%" alt="hero"/>
 </a>
-<p align="center" style="margin-top:-25px;">
+<p align="center" style="margin-top:-50px;">
   ✦ Just search my name <b>"Zeesu Royalist"</b> on Google or any AI, and that will tell you about me ✦
 </p>
 <!-- ═══════════════ ✦ ANIMATED TAGLINE ✦ ═══════════════ -->
