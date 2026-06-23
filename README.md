@@ -1,226 +1,349 @@
-<!-- ===================== HERO BANNER ===================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mohammad%20Jishan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Cloud%20Engineer&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
-</div>
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║  ✦  MOHAMMAD JISHAN  ✦  Full-Stack Developer · AI Builder    ║
+     ║  Crafted with obsession. Deployed with love.                 ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<div align="center">
-  <a href="https://github.com/zeesu-royalist">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Crafting+pixel-perfect+web+experiences;Shipping+AI-powered+products;Architecting+scalable+cloud+systems;Clean+Code+%3E+Clever+Code" alt="Typing SVG"/>
-  </a>
-</div>
+<!-- ═══════════════ ✦ CINEMATIC HERO BANNER ✦ ═══════════════ -->
+<a href="https://github.com/zeesu-royalist">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mohammad%20Jishan&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A6%20%20Full-Stack%20Developer%20%20%E2%80%A2%20%20AI%20Architect%20%20%E2%80%A2%20%20Cloud%20Engineer%20%20%E2%9C%A6&descSize=20&descAlignY=58&descAlign=50&stroke=8b5cf6&strokeWidth=2" width="100%" alt="hero"/>
+</a>
 
-<!-- ===================== PROFILE METRICS ===================== -->
+<!-- ═══════════════ ✦ ANIMATED TAGLINE ✦ ═══════════════ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeesu-royalist&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/zeesu-royalist?label=Followers&style=for-the-badge&color=8b5cf6&labelColor=0d1117" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20AI-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge&labelColor=0d1117" alt="Open to collab"/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&multiline=false&width=900&height=60&lines=%E2%9C%A6+Turning+caffeine+into+code+since+forever;%E2%9C%A6+Building+AI+products+that+feel+human;%E2%9C%A6+Architecting+systems+that+scale+to+millions;%E2%9C%A6+Clean+Code+%3E+Clever+Code+%E2%80%94+always.)](https://github.com/zeesu-royalist)
+  
 </div>
 
 <br/>
 
-<!-- ===================== ABOUT ME ===================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
+<!-- ═══════════════ ✦ FLOATING METRICS BAR ✦ ═══════════════ -->
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=zeesu-royalist&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge)
+  ![Followers](https://img.shields.io/github/followers/zeesu-royalist?label=FOLLOWERS&style=for-the-badge&color=ec4899&labelColor=0a0a0f&logo=github)
+  ![Stars](https://img.shields.io/github/stars/zeesu-royalist?label=STARS&style=for-the-badge&color=22d3ee&labelColor=0a0a0f&logo=github)
+  ![Years](https://img.shields.io/badge/CODING-5%2B%20YEARS-22c55e?style=for-the-badge&labelColor=0a0a0f)
+  
+</div>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<br/>
+
+<!-- ═══════════════ ✦ ABOUT ME — Split Card Layout ✦ ═══════════════ -->
+
+<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> &nbsp; `whoami`
 
 ```typescript
-const jishan = {
-  role:       "Full-Stack Developer @ Hodor Infosec",
-  location:   "Earth 🌍 — Remote First",
-  shipped:    "100+ live websites",
-  focus:      ["AI Apps", "Modern Web", "AWS Cloud"],
-  stack:      ["Next.js", "Node", "Python", "AWS"],
+const jishan: Developer = {
+  pronouns:   "he/him",
+  role:       "Full-Stack Dev @ Hodor Infosec",
+  location:   "🌍  Remote · Earth",
+  shipped:    "100+ live products",
+  obsessed:   ["AI agents", "design systems", "edge computing"],
+  stack:      ["Next.js", "Node", "Python", "AWS", "Postgres"],
   belief:     "Clean Code > Clever Code",
-  currently:  "Building something new every week",
-  funFact:    "I debug faster with lo-fi beats 🎧",
+  currently:  "shipping something new this week",
+  superpower: "turning vague ideas into pixel-perfect products",
+  funFact:    "I dream in TypeScript and debug in chai ☕",
 };
 ```
 
-- 🔭 Engineering **AI-powered products** and **scalable web platforms**
-- 🌱 Going deeper on **distributed systems** & **LLM tooling**
-- 💬 Ask me about **Next.js, AWS, AI agents, system design**
-- ⚡ Motto: *Build fast, ship clean, iterate ruthlessly*
+```yaml
+🔥 Always: building, breaking, learning, repeating
+🎯 Mission: craft software that feels invisible & inevitable
+💌 Open to: collabs, freelance, full-time, coffee chats
+```
 
-</td>
-<td width="40%" valign="top" align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ &nbsp; Tech Arsenal
+---
 
-<div align="center">
+<!-- ═══════════════ ✦ TECH ARSENAL — Categorized Grid ✦ ═══════════════ -->
 
-**⚡ Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,r,go&theme=dark" />
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"/> &nbsp; Tech Arsenal
 
-**🎨 Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,materialui,sass,threejs&theme=dark" />
-</p>
-
-**⚙️ Backend & APIs**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio,redux,graphql,fastapi&theme=dark" />
-</p>
-
-**🗄️ Databases & ORM**
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,prisma,supabase&theme=dark" />
-</p>
-
-**☁️ Cloud · DevOps · Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=aws,firebase,vercel,docker,kubernetes,git,github,figma,postman,vscode&theme=dark" />
-</p>
-
-</div>
-
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 &nbsp; GitHub Pulse
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zeesu-royalist&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=22d3ee&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=zeesu-royalist&theme=tokyonight&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=22d3ee&currStreakLabel=8b5cf6"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeesu-royalist&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zeesu-royalist&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" height="180"/>
-</div>
-
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 &nbsp; Trophy Shelf
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeesu-royalist&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-</div>
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-## 📈 &nbsp; Contribution Universe
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeesu-royalist&bg_color=0d1117&color=8b5cf6&line=22d3ee&point=ffffff&area=true&hide_border=true&custom_title=Commits%20Across%20the%20Galaxy" width="100%"/>
-</div>
-
-<!-- Snake animation: enable via .github/workflows/snake.yml -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zeesu-royalist/zeesu-royalist/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## 🚀 &nbsp; Featured Builds
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-
-### 🎬 [zeesu-max.stream](#)
-Online video streaming platform with movie info, ratings, and a buttery-smooth watch experience.  
-`Next.js` · `Node` · `MongoDB`
-
+<td align="center" width="20%">
+  <img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" /><br/>
+  <sub><b>⚡ Languages</b></sub>
 </td>
-<td width="50%" valign="top">
-
-### 📚 [zeesu-lib.book](#)
-Online bookstore with PDF downloads and a built-in dictionary.  
-`React` · `Express` · `AWS S3`
-
+<td align="center" width="20%">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" /><br/>
+  <sub><b>🎨 Frontend</b></sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 [retouch.photo](#)
-Real-time photo editor with filters, color grading, and live previews.  
-`Canvas API` · `WebGL` · `React`
-
+<td align="center" width="20%">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" /><br/>
+  <sub><b>⚙️ Backend</b></sub>
 </td>
-<td width="50%" valign="top">
-
-### 🛒 [zeesu-verse.shop](#)
-Modern e-commerce with smart filtering, search, and a slick cart.  
-`Next.js` · `Stripe` · `Postgres`
-
+<td align="center" width="20%">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" /><br/>
+  <sub><b>🗄️ Database</b></sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⌨️ [word-test.type](#)
-Typing-speed platform with deep accuracy analytics.  
-`React` · `Chart.js`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [ai-agent.chat](#)
-Gemini-powered conversational agent with streaming responses.  
-`Next.js` · `Gemini API` · `Edge`
-
+<td align="center" width="20%">
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel&theme=dark" /><br/>
+  <sub><b>☁️ Cloud</b></sub>
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <a href="https://github.com/zeesu-royalist?tab=repositories">
-    <img src="https://img.shields.io/badge/→%20Explore%20all%20projects-0d1117?style=for-the-badge&logo=github&logoColor=8b5cf6&labelColor=0d1117" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,go,r,nextjs,react,tailwind,bootstrap,materialui,sass,threejs,nodejs,express,socketio,redux,graphql,fastapi,mongodb,mysql,postgres,sqlite,redis,prisma,supabase,aws,firebase,vercel,docker,kubernetes,git,github,figma,postman,vscode&theme=dark&perline=12" />
+</div>
+
+---
+
+<!-- ═══════════════ ✦ GITHUB STATS — Hero Dashboard ✦ ═══════════════ -->
+
+## <img src="https://media.giphy.com/media/W1g3DfQRcOzu9XZNRX/giphy.gif" width="32"/> &nbsp; The Numbers
+
+<div align="center">
+  
+  <a href="https://github.com/zeesu-royalist">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=zeesu-royalist&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react&bg_color=0D1117&title_color=A78BFA&icon_color=22d3ee&text_color=ffffff&ring_color=ec4899" />
+  </a>
+  <a href="https://github.com/zeesu-royalist">
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=zeesu-royalist&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=ec4899&currStreakLabel=22d3ee&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+  </a>
+  
+</div>
+
+<div align="center">
+  
+  <a href="https://github.com/zeesu-royalist">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeesu-royalist&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8" />
+  </a>
+  <a href="http://github.com/ashutosh00710/github-readme-activity-graph">
+    <img height="195" src="https://github-readme-activity-graph.vercel.app/graph?username=zeesu-royalist&bg_color=0D1117&color=A78BFA&line=ec4899&point=22d3ee&area_color=A78BFA&title_color=A78BFA&area=true&hide_border=true&custom_title=Weekly+Commit+Rhythm" />
+  </a>
+  
+</div>
+
+---
+
+<!-- ═══════════════ ✦ TROPHY SHELF ✦ ═══════════════ -->
+
+## <img src="https://media.giphy.com/media/3o7TKDEq4dWyER0bvi/giphy.gif" width="32"/> &nbsp; Trophy Cabinet
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zeesu-royalist&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
   </a>
 </div>
 
-<!-- ===================== CODING ACTIVITY ===================== -->
-## ⏱️ &nbsp; Coding Activity
+---
 
-<!-- Replace with your WakaTime username, or remove this section -->
+<!-- ═══════════════ ✦ SNAKE CONTRIBUTION GRAPH ✦ ═══════════════ -->
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32"/> &nbsp; Contribution Snake
+
 <div align="center">
-<!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zeesu-royalist&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" />
-<!--END_SECTION:waka-->
+  <img alt="snake" src="https://raw.githubusercontent.com/zeesu-royalist/zeesu-royalist/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<!-- ===================== CONNECT ===================== -->
-## 🌐 &nbsp; Let's Connect
+---
+
+<!-- ═══════════════ ✦ FEATURED BUILDS — Magazine Grid ✦ ═══════════════ -->
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"/> &nbsp; Featured Builds
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🎬 [zeesu-max.stream](#)
+> Premium video streaming with movie metadata, ratings & responsive playback.
+
+`Next.js` · `Node` · `MongoDB` · `AWS S3`
+
+![stars](https://img.shields.io/github/stars/zeesu-royalist/zeesu-max?style=flat-square&color=A78BFA&labelColor=0D1117)
+![forks](https://img.shields.io/github/forks/zeesu-royalist/zeesu-max?style=flat-square&color=ec4899&labelColor=0D1117)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📚 [zeesu-lib.book](#)
+> Online bookstore with PDF downloads & dictionary integration.
+
+`React` · `Express` · `Postgres`
+
+![stars](https://img.shields.io/github/stars/zeesu-royalist/zeesu-lib?style=flat-square&color=A78BFA&labelColor=0D1117)
+![forks](https://img.shields.io/github/forks/zeesu-royalist/zeesu-lib?style=flat-square&color=ec4899&labelColor=0D1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎨 [retouch.photo](#)
+> Real-time browser photo editor — filters, curves, color grading.
+
+`Canvas` · `WebGL` · `React`
+
+![stars](https://img.shields.io/github/stars/zeesu-royalist/retouch?style=flat-square&color=A78BFA&labelColor=0D1117)
+![forks](https://img.shields.io/github/forks/zeesu-royalist/retouch?style=flat-square&color=ec4899&labelColor=0D1117)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛒 [zeesu-verse.shop](#)
+> Modern e-commerce with smart search, filtering & checkout.
+
+`Next.js` · `Stripe` · `Prisma`
+
+![stars](https://img.shields.io/github/stars/zeesu-royalist/zeesu-verse?style=flat-square&color=A78BFA&labelColor=0D1117)
+![forks](https://img.shields.io/github/forks/zeesu-royalist/zeesu-verse?style=flat-square&color=ec4899&labelColor=0D1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 [ai-agent.chat](#)
+> Gemini-powered conversational agent with streaming responses.
+
+`Next.js` · `Gemini API` · `Edge Runtime`
+
+![stars](https://img.shields.io/github/stars/zeesu-royalist/ai-agent?style=flat-square&color=A78BFA&labelColor=0D1117)
+![forks](https://img.shields.io/github/forks/zeesu-royalist/ai-agent?style=flat-square&color=ec4899&labelColor=0D1117)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🖼️ [ai-image.gen](#)
+> Text-to-image generator with multiple aspect ratios.
+
+`Next.js` · `Replicate` · `Cloudinary`
+
+![stars](https://img.shields.io/github/stars/zeesu-royalist/ai-image?style=flat-square&color=A78BFA&labelColor=0D1117)
+![forks](https://img.shields.io/github/forks/zeesu-royalist/ai-image?style=flat-square&color=ec4899&labelColor=0D1117)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
+  <br/>
+  <a href="https://github.com/zeesu-royalist?tab=repositories">
+    <img src="https://img.shields.io/badge/%E2%86%92%20%20EXPLORE%20%20ALL%20%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D1117" />
+  </a>
+</div>
 
+---
+
+<!-- ═══════════════ ✦ CODING ACTIVITY (WakaTime) ✦ ═══════════════ -->
+
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHs/giphy.gif" width="32"/> &nbsp; Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zeesu-royalist&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=22d3ee" width="49%"/>
+  <img src="https://wakatime.com/share/@zeesu-royalist/0000.svg" width="49%"/>
+</div>
+
+---
+
+<!-- ═══════════════ ✦ CONNECT — Glowing Social Buttons ✦ ═══════════════ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/> &nbsp; Let's Build Together
+
+<div align="center">
+  
 ```bash
 $ whoami
-> Mohammad Jishan — Full-Stack Developer, AI Builder
-$ contact --list
+> Mohammad Jishan — Full-Stack Developer · AI Builder · Friendly Human
+
+$ contact --list --beautiful
 ```
 
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/zeesu-royalist"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://youtube.com/@zeesu_royalist"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-<a href="https://discord.com/users/your-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://linkedin.com/in/your-handle">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://twitter.com/your-handle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://youtube.com/@zeesu_royalist">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://instagram.com/your-handle">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://discord.com/users/your-id">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
+</a>
 
 </div>
 
-<!-- ===================== FUN FACTS ===================== -->
-## 🎲 &nbsp; Fun Facts
+---
 
-> 🌙 I do my best coding between **midnight and 4 AM**  
-> ☕ Powered by **chai, lo-fi, and the occasional debug-induced panic**  
-> 🧠 I genuinely believe **a great UI is a love letter to the user**  
-> 🚀 If it's not shipped, it doesn't exist  
-> 🎮 When I'm not coding, I'm probably losing in chess
+<!-- ═══════════════ ✦ FUN FACTS — Personal Touch ✦ ═══════════════ -->
 
-<!-- ===================== QUOTE ===================== -->
+## <img src="https://media.giphy.com/media/VgGQqLRhUyzvAjW3K2/giphy.gif" width="32"/> &nbsp; Behind the Keyboard
+
+<table>
+<tr>
+<td width="50%">
+
+> 🌙 **Night-owl coder** — best work happens between **midnight & 4 AM**  
+> ☕ **Fueled by chai, lo-fi beats, and stubbornness**  
+> 🎮 Off-duty: chess (badly), open-world games, sci-fi novels  
+> 🧠 I believe **a great UI is a love letter to the user**  
+> 📦 Side-quest: **shipping at least one weekend project a month**  
+
+</td>
+<td width="50%">
+
+```text
+  ┌─────────────────────────────┐
+  │   if (problem.exists()) {   │
+  │     coffee.drink();         │
+  │     code.write();           │
+  │     ship.it();              │
+  │   }                         │
+  └─────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════ ✦ INSPIRATIONAL QUOTE ✦ ═══════════════ -->
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
+  
 </div>
 
-<!-- ===================== FOOTER ===================== -->
+---
+
+<!-- ═══════════════ ✦ SPOTIFY NOW PLAYING ✦ ═══════════════ -->
+<!-- Optional: setup at https://github.com/kittinan/spotify-github-profile -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Building%20Products%20%E2%80%A2%20Solving%20Problems%20%E2%80%A2%20Creating%20Impact&fontSize=16&fontColor=ffffff&fontAlignY=70"/>
+  <a href="https://open.spotify.com/user/your-id">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=your-id&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=8b5cf6&bar_color_cover=true" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ═══════════════ ✦ CINEMATIC FOOTER ✦ ═══════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Building%20Products%20%E2%80%A2%20Solving%20Problems%20%E2%80%A2%20Creating%20Impact&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=twinkling"/>
+</div>
+
+<div align="center">
+  <sub>⭐ <i>"Code is poetry written in logic." — Crafted with obsession by Mohammad Jishan</i> ⭐</sub>
 </div>
