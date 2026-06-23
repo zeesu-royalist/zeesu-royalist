@@ -62,7 +62,7 @@ const jishan: Developer = {
 
 <!-- ═══════════════ ✦ TECH ARSENAL — Categorized Grid ✦ ═══════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"/> &nbsp; Tech Arsenal
+
 
 <table align="center">
 <tr>
