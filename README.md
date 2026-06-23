@@ -4,7 +4,9 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- ═══════════════ ✦ CINEMATIC HERO BANNER ✦ ═══════════════ -->
-
+<a href="https://github.com/zeesu-royalist">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mohammad%20Jishan&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A6%20%20Full-Stack%20Developer%20%20%E2%80%A2%20%20AI%20Architect%20%20%E2%80%A2%20%20Cloud%20Engineer%20%20%E2%9C%A6&descSize=20&descAlignY=58&descAlign=50&stroke=8b5cf6&strokeWidth=2" width="100%" alt="hero"/>
+</a>
 
 <!-- ═══════════════ ✦ ANIMATED TAGLINE ✦ ═══════════════ -->
 <div align="center">
@@ -31,20 +33,20 @@
 
 <img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> &nbsp; `whoami`
 
 ```typescript
 const jishan: Developer = {
   pronouns:   "he/him",
   role:       "Full-Stack Dev @ Hodor Infosec",
-  location:   "🌍  Remote · Earth",
+  location:   "Remote · Earth",
   shipped:    "100+ live products",
-  obsessed:   ["AI agents", "design systems", "edge computing"],
+  obsessed:   ["Design systems", "Edge computing"],
   stack:      ["Next.js", "Node", "Python", "AWS", "Postgres"],
   belief:     "Clean Code > Clever Code",
   currently:  "shipping something new this week",
   superpower: "turning vague ideas into pixel-perfect products",
-  funFact:    "I dream in TypeScript and debug in chai ☕",
+  funFact:    "I dream in TypeScript and debug in chai",
 };
 ```
 
@@ -60,7 +62,7 @@ const jishan: Developer = {
 
 <!-- ═══════════════ ✦ TECH ARSENAL — Categorized Grid ✦ ═══════════════ -->
 
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"/> &nbsp; Tech Arsenal
 
 <table align="center">
 <tr>
@@ -89,7 +91,7 @@ const jishan: Developer = {
 
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,go,r,nextjs,react,tailwind,bootstrap,materialui,sass,threejs,nodejs,express,socketio,redux,graphql,fastapi,mongodb,mysql,postgres,sqlite,redis,prisma,supabase,aws,firebase,vercel,docker,kubernetes,git,github,figma,postman,vscode&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,go,r,nextjs,react,tailwind,bootstrap,materialui,sass,threejs,nodejs,express,redux,graphql,fastapi,mongodb,mysql,postgres,sqlite,redis,prisma,supabase,aws,firebase,vercel,docker,kubernetes,git,github,figma,postman,vscode,socketio&theme=dark&perline=12" />
 </div>
 
 ---
