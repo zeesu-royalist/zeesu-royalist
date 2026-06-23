@@ -215,28 +215,28 @@ const jishan: Developer = {
 ```bash
 > Mohammad Jishan — Full-Stack Developer · AI Builder · Friendly Human
 
-$ contact --list --beautiful
+$ contact
 ```
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:md.jishan.dev.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="https://linkedin.com/in/your-handle">
+<a href="https://www.linkedin.com/in/mohammad-jishan-zeesu-royalist/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="https://twitter.com/your-handle">
+<a href="https://x.com/zeesu_royalist">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="https://youtube.com/@zeesu_royalist">
+<a href="https://www.youtube.com/@zeesu_royalist">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="https://instagram.com/your-handle">
+<a href="https://www.instagram.com/zeesu_royalist/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="https://discord.com/users/your-id">
+<a href="https://www.google.com/search?q=zeesu+royalist">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="https://your-portfolio.com">
+<a href="https://zeesu-royalist.github.io">
   <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
 </a>
 
