@@ -213,7 +213,6 @@ const jishan: Developer = {
 <div align="center">
   
 ```bash
-$ whoami
 > Mohammad Jishan — Full-Stack Developer · AI Builder · Friendly Human
 
 $ contact --list --beautiful
