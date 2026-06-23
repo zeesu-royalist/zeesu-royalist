@@ -124,28 +124,6 @@ const jishan: Developer = {
 
 ---
 
-<!-- ═══════════════ ✦ TROPHY SHELF ✦ ═══════════════ -->
-
-## <img src="https://media.giphy.com/media/3o7TKDEq4dWyER0bvi/giphy.gif" width="32"/> &nbsp; Trophy Cabinet
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zeesu-royalist&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
-  </a>
-</div>
-
----
-
-<!-- ═══════════════ ✦ SNAKE CONTRIBUTION GRAPH ✦ ═══════════════ -->
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32"/> &nbsp; Contribution Snake
-
-<div align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/zeesu-royalist/zeesu-royalist/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
----
-
 <!-- ═══════════════ ✦ FEATURED BUILDS — Magazine Grid ✦ ═══════════════ -->
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"/> &nbsp; Featured Builds
@@ -230,17 +208,6 @@ const jishan: Developer = {
   <a href="https://github.com/zeesu-royalist?tab=repositories">
     <img src="https://img.shields.io/badge/%E2%86%92%20%20EXPLORE%20%20ALL%20%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D1117" />
   </a>
-</div>
-
----
-
-<!-- ═══════════════ ✦ CODING ACTIVITY (WakaTime) ✦ ═══════════════ -->
-
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHs/giphy.gif" width="32"/> &nbsp; Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zeesu-royalist&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&icon_color=22d3ee" width="49%"/>
-  <img src="https://wakatime.com/share/@zeesu-royalist/0000.svg" width="49%"/>
 </div>
 
 ---
