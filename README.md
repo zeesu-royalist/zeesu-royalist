@@ -50,12 +50,6 @@ const jishan: Developer = {
 };
 ```
 
-```yaml
-🔥 Always: building, breaking, learning, repeating
-🎯 Mission: craft software that feels invisible & inevitable
-💌 Open to: collabs, freelance, full-time, coffee chats
-```
-
 <br clear="right"/>
 
 ---
@@ -286,13 +280,6 @@ $ contact --list --beautiful
 
 <!-- ═══════════════ ✦ INSPIRATIONAL QUOTE ✦ ═══════════════ -->
 
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
-  
-</div>
-
----
 
 <!-- ═══════════════ ✦ SPOTIFY NOW PLAYING ✦ ═══════════════ -->
 <!-- Optional: setup at https://github.com/kittinan/spotify-github-profile -->
@@ -312,5 +299,5 @@ $ contact --list --beautiful
 </div>
 
 <div align="center">
-  <sub>⭐ <i>"Code is poetry written in logic." — Crafted with obsession by Mohammad Jishan</i> ⭐</sub>
+  <sub>⭐ <i>Zeesu Royalist</i> ⭐</sub>
 </div>
