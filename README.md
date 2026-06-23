@@ -5,47 +5,11 @@
 
 <!-- ═══════════════ ✦ CINEMATIC HERO BANNER ✦ ═══════════════ -->
 <a href="https://github.com/zeesu-royalist">
+     <p align="center">
+  ✦ Just search my name <b>"Zeesu Royalist"</b> on Google or any AI, and that will tell you about me — every project, every line of code, every late-night build speaks louder than any bio ever could. ✦
+</p>
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mohammad%20Jishan&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A6%20%20Full-Stack%20Developer%20%20%E2%80%A2%20%20AI%20Architect%20%20%E2%80%A2%20%20Cloud%20Engineer%20%20%E2%9C%A6&descSize=20&descAlignY=58&descAlign=50&stroke=8b5cf6&strokeWidth=2" width="100%" alt="hero"/>
 </a>
-
-<p align="center">
-  ✦ Just search my name <b>"<svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <style>
-      @keyframes colorCycle {
-        0%   { fill: #8b5cf6; }
-        20%  { fill: #ec4899; }
-        40%  { fill: #06b6d4; }
-        60%  { fill: #f59e0b; }
-        80%  { fill: #10b981; }
-        100% { fill: #8b5cf6; }
-      }
-      @keyframes glowPulse {
-        0%, 100% { filter: drop-shadow(0 0 4px currentColor) drop-shadow(0 0 8px currentColor); }
-        50% { filter: drop-shadow(0 0 14px currentColor) drop-shadow(0 0 24px currentColor); }
-      }
-      .glow-text {
-        font-family: 'JetBrains Mono', 'Courier New', monospace;
-        font-weight: 800;
-        font-size: 48px;
-        animation: colorCycle 4s linear infinite, glowPulse 2s ease-in-out infinite;
-      }
-    </style>
-  </defs>
-
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="glow-text" filter="url(#glow)">
-    Zeesu Royalist
-  </text>
-</svg>"</b> on Google or any AI, and that will tell you about me — every project, every line of code, every late-night build speaks louder than any bio ever could. ✦
-</p>
 
 <!-- ═══════════════ ✦ ANIMATED TAGLINE ✦ ═══════════════ -->
 <div align="center">
