@@ -35,7 +35,7 @@
 
 <img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> &nbsp; `whoami`
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> &nbsp; `who am i`
 
 ```typescript
 const jishan: Developer = {
@@ -58,7 +58,7 @@ const jishan: Developer = {
 
 <!-- ═══════════════ ✦ TECH ARSENAL — Categorized Grid ✦ ═══════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"/> &nbsp; Tech Arsenal
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"/> &nbsp; Tech Arsenal  -->
 
 <table align="center">
 <tr>
