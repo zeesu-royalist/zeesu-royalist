@@ -1,18 +1,242 @@
-# 💫 About Me:
-<div align="center"><br><br># 👋 Hi, I'm Mohammad Jishan<br><br>### 🚀 Full-Stack Developer | AI Enthusiast | Cloud Explorer<br><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;AI+Application+Developer;AWS+%7C+Docker+%7C+Cloud;Building+Products+That+Matter" /><br><br><p><br>  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •<br>  <a href="YOUR_LINKEDIN">LinkedIn</a> •<br>  <a href="YOUR_GITHUB">GitHub</a> •<br>  <a href="mailto:rzeesu@gmail.com">Email</a><br></p><br><br><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=for-the-badge" /><br><br></div><br><br>---<br><br>## 💫 About Me<br><br>I'm a passionate **Full-Stack Developer** focused on building modern web applications, AI-powered products, and scalable cloud solutions.<br><br>🔹 Built **100+ Live Websites**<br><br>🔹 Full-Stack Developer at **Hodor Infosec**<br><br>🔹 Experience with **AI Applications, AWS & Modern Web Stack**<br><br>🔹 Strong believer in Clean Code & Performance Optimization<br><br>🔹 Continuously learning and building impactful products<br><br>---<br><br># 🛠️ Tech Stack<br><br>## 💻 Programming Languages<br><br>![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)<br>![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)<br>![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)<br>![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)<br><br>---<br><br>## 🎨 Frontend<br><br>![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)<br>![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)<br>![GSAP](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=greensock)<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)<br>![Shadcn](https://img.shields.io/badge/Shadcn_UI-black?style=for-the-badge)<br>![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)<br>![MUI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=mui)<br><br>---<br><br>## ⚙️ Backend<br><br>![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)<br>![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)<br>![Socket.io](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio)<br><br>---<br><br>## 🔄 State Management & Validation<br><br>![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)<br>![Zustand](https://img.shields.io/badge/Zustand-black?style=for-the-badge)<br>![Zod](https://img.shields.io/badge/Zod-black?style=for-the-badge)<br>![Joi](https://img.shields.io/badge/Joi-black?style=for-the-badge)<br><br>---<br><br>## 🗄️ Databases<br><br>![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)<br>![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)<br>![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)<br>![Neon](https://img.shields.io/badge/Neon-black?style=for-the-badge)<br><br>---<br><br>## 🏗 ORM<br><br>![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)<br><br>---<br><br>## ⚡ Caching<br><br>![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)<br><br>---<br><br>## ☁️ Cloud & DevOps<br><br>![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)<br>![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)<br><br>---<br><br>## 🔧 Tools<br><br>![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)<br>![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)<br>![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)<br>![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge)<br>![Antigravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge)<br><br>---<br><br># 🚀 Featured Projects<br><br>### 🎬 Zeesu Max<br>Online Video Streaming Platform with movie information, ratings, and responsive streaming experience.<br><br>### 📚 Zeesu Lib<br>Online Book Store with PDF downloads and built-in dictionary integration.<br><br>### 🎨 Retouch<br>Real-time online photo editing application with filters and color grading.<br><br>### 🛒 Zeesu Verse<br>Modern E-commerce platform with filtering, search, and cart management.<br><br>### ⌨️ Word Test<br>Typing speed and accuracy testing platform with detailed analytics.<br><br>### 🤖 AI Intelligent Agent<br>Gemini-powered conversational AI with real-time responses.<br><br>### 🖼 AI Image Generator<br>Generate AI images in multiple aspect ratios from text prompts.<br><br>---<br><br># 📊 GitHub Stats<br><br><div align="center"><br><br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/><br><br><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/><br><br></div><br><br>---<br><br># 🔥 GitHub Streak<br><br><div align="center"><br><br><img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/><br><br></div><br><br>---<br><br># 🏆 GitHub Trophies<br><br><div align="center"><br><br><img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4" /><br><br></div><br><br>---<br><br># 📈 Contribution Graph<br><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" /><br><br>---<br><br>## 🌍 Connect With Me<br><br><p align="center"><br><a href="YOUR_LINKEDIN">LinkedIn</a> •<br><a href="YOUR_PORTFOLIO">Portfolio</a> •<br><a href="mailto:rzeesu@gmail.com">Email</a><br></p><br><br>---<br><br><div align="center"><br><br>### ⭐ "Building Products, Solving Problems, Creating Impact"<br><br></div>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=Mohammad%20Jishan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zeesu_royalist) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zeesu_royalist) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeesu_royalist) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammad Jishan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/zeesu_royalist) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/zeesu_royalist) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/zeesu_royalist) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zeesu_royalist) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@zeesu_royalist) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md.jishan.dev@gmail.com  rzeesu@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=zeesu-royalist&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=zeesu-royalist&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=zeesu-royalist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;AI+Application+Developer;AWS+%7C+Docker+%7C+Cloud;Building+Products+That+Matter" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=zeesu-royalist&label=Profile+Views&color=8b5cf6&style=for-the-badge" />
+
+</div>
+
+<br>
+
+## 💫 About Me
+
+I'm a passionate **Full-Stack Developer** focused on building modern web applications, AI-powered products, and scalable cloud solutions.
+
+```
+🔹 Built 100+ Live Websites
+🔹 Full-Stack Developer at Hodor Infosec
+🔹 Experience with AI Applications, AWS & Modern Web Stack
+🔹 Strong believer in Clean Code & Performance Optimization
+🔹 Continuously learning and building impactful products
+```
+
+<br>
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=nodemon&logoColor=BBDEAD)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔄 State Management & Validation</b></summary>
+<br>
+
+![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
+![Joi](https://img.shields.io/badge/Joi-000000?style=for-the-badge)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & ORM</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+</details>
+
+<br>
+
+## 🚀 Featured Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Zeesu Max
+Online video streaming platform with movie information, ratings, and a responsive streaming experience.
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Zeesu Lib
+Online book store with PDF downloads and built-in dictionary integration.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Retouch
+Real-time online photo editing application with filters and color grading.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Zeesu Verse
+Modern e-commerce platform with filtering, search, and cart management.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⌨️ Word Test
+Typing speed and accuracy testing platform with detailed analytics.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Intelligent Agent
+Gemini-powered conversational AI with real-time responses.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ AI Image Generator
+Generate AI images in multiple aspect ratios from text prompts.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.shion.dev/api?username=zeesu-royalist&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+<img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=zeesu-royalist&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=zeesu-royalist&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=zeesu-royalist&theme=tokyonight&no-frame=true&row=2&column=4" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeesu-royalist&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
 
 ---
-[![](https://komarev.com/ghpvc/?username=zeesu-royalist&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌍 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rzeesu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammad-Jishan)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zeesu_royalist)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/zeesu_royalist)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zeesu_royalist)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/zeesu_royalist)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@zeesu_royalist)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/zeesu_royalist)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/zeesu_royalist)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/zeesu_royalist)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://your-portfolio-link.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=zeesu-royalist&icon=0&color=8b5cf6)](https://visitcount.itsvg.in)
+
+### ⭐ "Building Products, Solving Problems, Creating Impact"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=120&section=footer" width="100%"/>
+
+</div>
