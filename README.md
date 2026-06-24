@@ -94,7 +94,7 @@ const jishan: Developer = {
 
 <!-- ═══════════════ ✦ GITHUB STATS — Hero Dashboard ✦ ═══════════════ -->
 
-## <img src="https://media.giphy.com/media/W1g3DfQRcOzu9XZNRX/giphy.gif" width="32"/> &nbsp; The Numbers
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTkyaDR4NHU4bWNqYXRyNjVtMHluamFwczFuYTY2ZGhic29ucjlhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QvjmxpTkWK6ty5DTJY/giphy.gif" width="32"/> &nbsp; The Numbers
 
 <div align="center">
   
