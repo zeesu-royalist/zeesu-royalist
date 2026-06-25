@@ -248,7 +248,7 @@ $ contact
 
 <!-- ═══════════════ ✦ FUN FACTS — Personal Touch ✦ ═══════════════ -->
 
-## <img src="https://media.giphy.com/media/VgGQqLRhUyzvAjW3K2/giphy.gif" width="32"/> &nbsp; Behind the Keyboard
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYxcHY5c21yMGszdGtuN21tbHQ1YW1pdzUyemVpeng3MHpwYWZjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMuY6LRKv2buJcA/giphy.gif" width="32"/> &nbsp; Behind the Keyboard
 
 <table>
 <tr>
