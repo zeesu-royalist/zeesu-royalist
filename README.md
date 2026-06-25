@@ -33,7 +33,8 @@
 
 <!-- ═══════════════ ✦ ABOUT ME — Split Card Layout ✦ ═══════════════ -->
 
-<img align="right" alt="coding" width="350" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" />
+<img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanU3bWV4eXFoY3Z4YWRwYWRkbHV0cTRrejJraDJhdnQ1aWE5ejBxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
+<!-- <img align="right" alt="coding" width="350" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" /> -->
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> &nbsp; `whoami`
 
