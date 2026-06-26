@@ -88,7 +88,7 @@ const jishan: Developer = {
 
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c,r,nextjs,react,tailwind,bootstrap,mui,sass,threejs,nodejs,express,redux,fastapi,mongodb,mysql,postgres,sqlite,redis,prisma,rabbitmq,supabase,aws,firebase,vercel,docker,vite,kubernetes,git,github,figma,postman,vscode,html,css,npm,pnpm,yarn,apple,windows,linux,ubuntu,socketio,swagger&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,py,c,r,nextjs,react,tailwind,bootstrap,mui,sass,threejs,nodejs,express,redux,fastapi,mongodb,mysql,postgres,sqlite,redis,prisma,rabbitmq,supabase,aws,firebase,vercel,docker,vite,kubernetes,git,github,figma,postman,vscode,html,css,npm,pnpm,yarn,apple,windows,linux,ubuntu,socketio,swagger&theme=dark&perline=12" />
 </div>
 
 ---
