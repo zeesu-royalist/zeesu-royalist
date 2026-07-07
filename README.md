@@ -99,12 +99,15 @@ const jishan: Developer = {
 
 <div align="center">
   
-  <a href="https://github.com/zeesu-royalist">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=zeesu-royalist&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react&bg_color=0D1117&title_color=A78BFA&icon_color=22d3ee&text_color=ffffff&ring_color=ec4899" />
-  </a>
-  <a href="https://github.com/zeesu-royalist">
-    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=zeesu-royalist&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=ec4899&currStreakLabel=22d3ee&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-  </a>
+<a href="https://github.com/zeesu-royalist">
+  <img height="195"
+       src="https://github-readme-stats.vercel.app/api?username=zeesu-royalist&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react&bg_color=0D1117&title_color=A78BFA&icon_color=22d3ee&text_color=ffffff&ring_color=ec4899" />
+</a>
+
+<a href="https://github.com/zeesu-royalist">
+  <img height="195"
+       src="https://streak-stats.demolab.com?user=zeesu-royalist&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=ec4899&currStreakLabel=22d3ee&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+</a>
   
 </div>
 
