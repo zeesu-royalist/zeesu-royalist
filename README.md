@@ -121,7 +121,7 @@ const jishan: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+## <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY3N2V4ZGdkNWRtM3hjaTNweGVkMHM4eGg4OHhmeDVwY3FmeTMyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiIuC6fAOoXD2/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9yMzE4eHhmZDBtd2o5bGZjZGczMmY5bG93MHUwYXhyaHBjMnV1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WZ27ffEAVcRO4wj63U/giphy.gif)" width="32"/> &nbsp; GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Fulbabu-T&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
