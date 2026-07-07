@@ -98,28 +98,14 @@ const jishan: Developer = {
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY3N2V4ZGdkNWRtM3hjaTNweGVkMHM4eGg4OHhmeDVwY3FmeTMyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiIuC6fAOoXD2/giphy.gif" width="32"/> &nbsp; The Numbers
 
 <div align="center">
-
+  
   <a href="https://github.com/zeesu-royalist">
-    <img height="180"
-         src="https://github-readme-stats.vercel.app/api?username=zeesu-royalist&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=zeesu-royalist&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react&bg_color=0D1117&title_color=A78BFA&icon_color=22d3ee&text_color=ffffff&ring_color=ec4899" />
   </a>
-
   <a href="https://github.com/zeesu-royalist">
-    <img height="180"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeesu-royalist&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=1800" />
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=zeesu-royalist&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=ec4899&currStreakLabel=22d3ee&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
   </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <a href="https://github.com/zeesu-royalist">
-    <img width="95%"
-         src="https://github-readme-activity-graph.vercel.app/graph?username=zeesu-royalist&theme=tokyo-night&hide_border=true&area=true&custom_title=Weekly+Commit+Rhythm" />
-  </a>
-
+  
 </div>
 
 <div align="center">
